@@ -21,3 +21,9 @@ body, html {
     transform: translate(-50%, -50%);
     color: rgb(0, 0, 0);
   }
+  table{
+    border: 5px double black;
+  }
+  tr{
+    border: 5px double black;
+  }
